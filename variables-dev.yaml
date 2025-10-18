@@ -2,3 +2,4 @@ login_user: root
 login_host: db-dev.sidthu.xyz
 login_password: ExpenseApp1
 DB_HOST: db-dev.sidthu.xyz
+BACKEND_API_URL: backend.app-dev.sidthu.xyz
